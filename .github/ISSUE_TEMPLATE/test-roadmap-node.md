@@ -17,4 +17,7 @@ Maintainer:
 - [ ] <add here>
 ```
 
+Known dependencies:
+- <add here>
+
 View this [starmap](https://starmap.site/) at: <link>
